@@ -2,7 +2,7 @@ package MathApps;
 
 import java.util.Scanner;
 
-public class PermutationsFactorial {
+public class FactorialVariation {
     public static void main(String[] args) {  //interaccion por consola
         
         Scanner theScann = new Scanner(System.in) ;
